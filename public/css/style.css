@@ -1,0 +1,9 @@
+main{
+    width: 100%;
+    height: 100vh;
+    background-color: #11111F;
+}
+
+nav.navbar.navbar-expand-lg.navbar-dark.bg-dark{
+    background-color:#0b0b14 !important ;
+  }
